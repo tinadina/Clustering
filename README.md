@@ -27,25 +27,15 @@ This project focuses on analyzing hierarchical clustering techniques applied to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wine-clustering-analysis.git
-   cd wine-clustering-analysis
+   git clone https://github.com/tinadina/Clustering.git
+   cd Clustering
    ```
 
-2. Install the required libraries:
+2. Run the analysis scripts:
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the analysis scripts:
-   ```bash
-   python hierarchical_clustering.py
-   python kmeans_comparison.py
+   python Clustering.py
    ```
 
 ## Results
 
-The results of the analysis, including visualizations and insights, can be found in the `results` directory. Detailed explanations of the findings and comparisons are documented within the scripts.
-
-## Conclusion
-
-This project provides a comprehensive analysis of hierarchical clustering methods applied to the Wine dataset, offering valuable insights into cluster formation and the effectiveness of different clustering techniques.
+The results of the analysis, including visualizations and insights, can be found in the `Report` file. Detailed explanations of the findings and comparisons are documented within the scripts.
